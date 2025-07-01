@@ -1,4 +1,4 @@
-import son_top_oyini.add_functions as func
+import add_functions as func
 
 my_count = 0
 comp_count = 0
